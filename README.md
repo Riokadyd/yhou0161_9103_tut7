@@ -24,7 +24,7 @@ This is my first local change to the repo!
 
 [Link Text](https://canvas.sydney.edu.au/courses/64347/pages/week-9-tutorial?module_item_id=2585757)
 
-![An image of a cat](https://www.wondercide.com/blogs/thewonderside-pets-family/20-reasons-why-you-should-adopt-a-cat)
+![An image of a cat](https://www.wondercide.com/cdn/shop/articles/Upside_down_gray_cat.png?v=1685551065&width=1100)
 
 ![An image of the Mona Lisa](readmeImages\Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
