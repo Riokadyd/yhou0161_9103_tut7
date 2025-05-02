@@ -26,7 +26,7 @@ This is my first local change to the repo!
 
 ![An image of a cat](https://www.wondercide.com/cdn/shop/articles/Upside_down_gray_cat.png?v=1685551065&width=1100)
 
-![An image of the Mona Lisa](readmeImages\Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 ```
 function helloWorld(){
